@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Magento Developer Intern",
-    cardImage: "hysteresis_internship_grp_photo.jpg",
+    cardImage: "js/hysteresis_internship_grp_photo.jpg",
     place: "Hysteresis Pvt Ltd ",
     time: "(July, 2023 - December 2023)",
     desp:""
@@ -152,6 +152,7 @@ document.addEventListener("DOMContentLoaded", showCards);
   hackathonsection.innerHTML = output;
 };
 document.addEventListener("DOMContentLoaded", showCards3); */
+
 
 
 
